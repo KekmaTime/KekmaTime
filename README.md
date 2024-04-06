@@ -3,13 +3,13 @@
 # Tools I Use :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,neovim,cloudflare,idea,linux,postman," />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,arch,linux,vscode," />
   </a>
 </p>
 
 # Languages & Frameworks I Know :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,bevy,c,rust,cpp,tauri,wasm,css,html,java,js,py" />
+    <img src="https://skillicons.dev/icons?i=bash,bun,c,cpp,css,docker,graphql,html,java,js,lua,nextjs,nodejs,npm,prisma,react,redis,redux,rocket,rust,tailwind,tauri,ts,vercel,wasm,yew" />
   </a>
 </p>
